@@ -1,3 +1,11 @@
 body {
     background-color: brown;
 }
+
+p {
+    color:white;
+}
+
+h2 {
+    font-size: 50px;
+}
